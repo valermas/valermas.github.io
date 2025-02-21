@@ -3,7 +3,7 @@ main:
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    permalink : /docs/_pages/about.md
+    permalink : /about/
     author profile : True
   - title: "Sample Posts"
     url: /year-archive/
