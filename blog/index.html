@@ -1,0 +1,877 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+<meta name="theme-color" content="#478079"/>
+
+<title>Valeria Mascolo</title>
+<meta name="description" content='This hugo theme (Adritian) is based on Bootstrap and has features that make it suitable for a personal site, a portfolio or other kind of Single Page Applications.'>
+<meta name="generator-mode" content='development'>
+<style data-generator="critical-css">
+</style>
+    <link
+      rel="preload"
+      href="/css/bundle.css"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+      
+    />
+    <noscript>
+      <link 
+        rel="stylesheet"
+        href="/css/bundle.css"
+        
+      />
+    </noscript>
+  
+<link rel="stylesheet" href="http://localhost:1313/scss/adritian.css" integrity="" crossorigin="anonymous"/>
+
+
+
+<script defer src="http://localhost:1313/js/color-modes.js"></script>
+
+<script src='http://localhost:1313/js/library/lozad.min.js'></script>
+
+<meta property="og:url" content="http://localhost:1313/blog/">
+  <meta property="og:site_name" content="Valeria Mascolo">
+  <meta property="og:title" content="Demo Blog">
+  <meta property="og:description" content="Welcome to the demo blog. You can customize (or remove) this section in the _index.md file in the blog folder. You can read about how to organize content in Hugo in the official docs.
+The posts below are in the same folder (blog/) and can be in the supported formats by hugo (Markdown, HTML, Emacs Org Mode, AsciiDoc, Pandoc, or reStructuredText).
+You can use translations as well.">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="website">
+    <meta property="og:image" content="http://localhost:1313/img/og-img.png">
+
+    
+
+</head>
+
+<body class=" page-blog">
+    
+
+
+<a href="#main-content" 
+    class="skip-to-content-link"
+    aria-label='Skip to main content'>
+  Skip to main content
+</a>
+
+<header class="header fixed-top rad-animation-group" id="header">
+  <div class="container rad-fade-in">
+    <nav class="navbar bd-navbar navbar-expand-lg navbar-light p-0">
+      <div class="container-fluid">
+        <a class="navbar-brand mx-auto" href="/">
+            
+          <span>Adritian</span>
+          <span>Demo</span>
+        </a>
+        <button
+          class="navbar-toggler collapsed"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarSupportedContent, #header"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label='Toggle navigation'
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-lg-auto">
+            <li class="nav-item">
+              <a class="nav-link active" href="/"
+                >HOME</a
+              >
+            </li>
+            <li class="nav-item">
+              <a data-scroll class="nav-link" href="/#about"
+                >ABOUT</a
+              >
+            </li>
+            <li class="nav-item">
+              <a data-scroll class="nav-link" href="/#portfolio"
+                >PORTFOLIO</a
+              >
+            </li>
+            <li class="nav-item">
+              <a data-scroll class="nav-link" href="/blog"
+                >HOW TO</a
+              >
+            </li>
+            <li class="nav-item">
+              <a data-scroll class="nav-link" href="/#contact"
+                >CONTACT</a
+              >
+            </li>
+            
+                     
+            <li class="dropdown language-selector nav-item">
+            
+<div id='header-language-selector'
+  class='d-grid gap-2 col-6 mx-auto nav-link dropdown  '>
+  
+  
+  <button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show"
+    id='btn-select-language-header' type="button" aria-expanded="true"
+    aria-controls="languages-dropdown-header" data-bs-toggle="dropdown" data-bs-display="static"
+    aria-label='Language'>
+    <span class="label">Language</span>
+  </button>
+  <ul class='dropdown-menu dropdown-menu-end '
+    id="languages-dropdown-header" data-bs-popper="static">
+    <li class="dropdown-item current selected">
+      <span>✔️ English</span>
+    </li>
+    
+    
+  
+    
+  
+    
+    
+    <li class="dropdown-item choice">
+      <a class="dropdown-item translation btn-link d-flex align-items-center show" title="Español"
+        href="http://localhost:1313/es/blog/">Español</a>
+    </li>
+    
+  </ul>
+</div>
+            </li>
+            <li class="dropdown theme-selector nav-item">
+              
+                
+              
+<div id='header-color-selector'
+  class='d-grid gap-2 col-6 mx-auto nav-link dropdown  '>
+  <button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show bd-theme-selector"
+    id='bd-theme-header' type="button" aria-expanded="true" data-bs-toggle="dropdown"
+    data-bs-display="static" aria-label='Toggle theme'>
+    <span class="theme-icon auto d-none" aria-hidden="true"></span>
+    <span class="current-theme">✨ Auto</span>
+    <span class="d-lg-none ms-2 visually-hidden bd-theme-text" id="bd-theme-text-header">Toggle theme</span>
+  </button>
+  <ul id="theme-dropdown-header" class="dropdown-menu dropdown-menu-end " aria-labelledby="bd-theme-text-header" data-bs-popper="static">
+    <li>
+      <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="light"
+        aria-pressed="true">
+        ☀️ Light
+      </button>
+    </li>
+    <li>
+      <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark"
+        aria-pressed="false">
+        🌑 Dark
+        <span class="theme-icon dark d-none" aria-hidden="true"></span>
+      </button>
+    </li>
+    <li>
+      <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto"
+        aria-pressed="false">
+        ✨ Auto
+        <span class="theme-icon light d-none" aria-hidden="true"></span>
+      </button>
+    </li>
+  </ul>
+</div>
+            </li>
+          </ul>
+        </div>
+
+      </div>
+    </nav>
+  </div>
+</header> 
+  <section id="breadcrumb-bar" class="breadcrumb-bar container">
+    <ul class="breadcrumbs d-print-none">
+        <li class="breadcrum-item"><span><a href="/">Home</a></span></li><li class="breadcrum-item"><span><a href="/blog">Demo Blog</a></span></li></ul>
+</section>
+
+
+    <main class="container">
+        
+  <div id="main-content" class="blog flex-grow-1">
+    <div class="container section">
+      <div class="row ">
+        
+        
+        <div class="col-content" >
+          <h1 class="rad-fade-down rad-waiting rad-animate">Demo Blog</h1>
+          <p>Welcome to the demo blog. You can customize (or remove) this section in the <code>_index.md</code> file in the <code>blog</code> folder. You can <a href="https://gohugo.io/content-management/page-bundles/">read about how to organize content in Hugo</a> in the official docs.</p>
+<p>The posts below are in the same folder (<code>blog/</code>) and can be in the <a href="https://gohugo.io/content-management/formats/">supported formats by hugo</a> (Markdown, HTML, Emacs Org Mode, AsciiDoc, Pandoc, or reStructuredText).</p>
+<p>You can use translations as well.</p>
+
+          <div class="posts-list">
+            
+              <div class="row row--padded rad-animation-group rad-fade-down rad-waiting rad-animate section--border-bottom">
+                <article class="post summary col-12">
+  <header>
+    <h2 class="post-title"><a href="/blog/shortcodes/">Theme shortcodes</a></h2>
+    <div class="post-meta">
+      <div>
+        <section>
+          Published on  
+          <h4 class="date">Fri Feb 14, 2025</h4> · 
+          <h4 class="wordcount">61 Words</h4>
+        </section>
+         
+        <ul class="tags">
+          
+          <li><a href="/tags/adritian/">Adritian</a></li>
+          
+          <li><a href="/tags/guide/">Guide</a></li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </header>
+  <div class="post-summary post-content">
+  <p>Shortcodes are a convenient <a href="https://gohugo.io/content-management/shortcodes/">functionality of Hugo</a>, allowing you to embed templates or layouts within other content.</p>
+<p>Some of the example built-in shortcodes are Instagram posts, YouTube videos, QR codes, etc. You can find <a href="https://gohugo.io/content-management/shortcodes/#embedded">the full list in the official docs</a>.</p>
+<p>The theme provides also custom shortcodes:</p>
+<ul>
+<li><code>education-list</code></li>
+<li><code>experience-list</code></li>
+</ul>
+<p>You can see them in effect in <a href="/cv/">the CV page</a> <a href="https://raw.githubusercontent.com/zetxek/adritian-demo/refs/heads/main/content/cv.md"><code>(see source)</code></a>.</p>
+  </div>
+
+  <footer class="">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <a class="btn btn-outline-secondary btn-sm" href="/blog/shortcodes/"
+          >Read more&nbsp;&raquo;</a
+        >
+      </div>
+    </div>
+  </footer>
+</article>
+
+              </div>
+            
+              <div class="row row--padded rad-animation-group rad-fade-down rad-waiting rad-animate section--border-bottom">
+                <article class="post summary col-12">
+  <header>
+    <h2 class="post-title"><a href="/blog/getting-started/">Create your own version of the site</a></h2>
+    <div class="post-meta">
+      <div>
+        <section>
+          Published on  
+          <h4 class="date">Tue Feb 11, 2025</h4> · 
+          <h4 class="wordcount">1487 Words</h4>
+        </section>
+         
+        <ul class="tags">
+          
+          <li><a href="/tags/adritian/">Adritian</a></li>
+          
+          <li><a href="/tags/guide/">Guide</a></li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </header>
+  <div class="post-summary post-content">
+  <p>This article is a guide to help you create your own version of the site using <a href="https://github.com/zetxek/adritian-free-hugo-theme">Adritian</a>. It will cover the main steps to get started with the theme, and how to customize it to your needs.</p>
+<h3 id="creating-a-site">Creating a site</h3>
+<p>This theme is for the content management system <a href="https://gohugo.io/">Hugo</a>, so that will be a pre-requirement.
+Make sure that you install the <code>extended</code> version of Hugo, as the theme uses SCSS for styling, as well as image optimization.</p>
+  </div>
+
+  <footer class="">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <a class="btn btn-outline-secondary btn-sm" href="/blog/getting-started/"
+          >Read more&nbsp;&raquo;</a
+        >
+      </div>
+    </div>
+  </footer>
+</article>
+
+              </div>
+            
+              <div class="row row--padded rad-animation-group rad-fade-down rad-waiting rad-animate section--border-bottom">
+                <article class="post summary col-12">
+  <header>
+    <h2 class="post-title"><a href="/blog/other-installation-methods/">Other installation methods</a></h2>
+    <div class="post-meta">
+      <div>
+        <section>
+          Published on  
+          <h4 class="date">Tue Feb 11, 2025</h4> · 
+          <h4 class="wordcount">1279 Words</h4>
+        </section>
+         
+        <ul class="tags">
+          
+          <li><a href="/tags/adritian/">Adritian</a></li>
+          
+          <li><a href="/tags/guide/">Guide</a></li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </header>
+  <div class="post-summary post-content">
+  <p>This is a guide that extends the default instructions offered in <a href="https://github.com/zetxek/adritian-free-hugo-theme/blob/main/README.md">the theme readme</a>.</p>
+<h4 id="manual-configuration">Manual configuration</h4>
+<p>If you prefer to manually set your site, you need to replace the contents of your config file (<code>hugo.toml</code>) file by these:</p>
+<!-- raw HTML omitted -->
+<pre tabindex="0"><code>baseURL = &#34;&lt;your website url&gt;&#34;
+languageCode = &#34;en&#34;
+
+[module]
+[module.hugoVersion]
+# We use hugo.Deps to list dependencies, which was added in Hugo 0.92.0
+min = &#34;0.92.0&#34;
+
+[[module.imports]]
+path=&#34;github.com/zetxek/adritian-free-hugo-theme&#34;
+
+## Base mounts - so your site&#39;s assets are available
+  [[module.mounts]]
+    source = &#34;archetypes&#34;
+    target = &#34;archetypes&#34;
+
+  [[module.mounts]]
+    source = &#34;assets&#34;
+    target = &#34;assets&#34;
+
+  [[module.mounts]]
+    source = &#34;i18n&#34;
+    target = &#34;i18n&#34;
+
+  [[module.mounts]]
+    source = &#34;layouts&#34; 
+    target = &#34;layouts&#34;
+
+  [[module.mounts]]
+    source = &#34;static&#34;
+    target = &#34;static&#34;
+
+# The following mounts are required for the theme to be able to load bootstrap
+# Remember also to copy the theme&#39;s `package.json` to your site, and run `npm install`
+[[module.mounts]]
+  source = &#34;node_modules/bootstrap/scss&#34;
+  target = &#34;assets/scss/bootstrap&#34;
+
+[[module.mounts]]
+  source = &#34;node_modules/bootstrap/dist/js&#34;
+  target = &#34;assets/js/bootstrap&#34;
+
+[[module.mounts]]
+  source = &#34;node_modules/bootstrap/dist/js/bootstrap.bundle.min.js&#34;
+  target = &#34;assets/js/vendor/bootstrap.bundle.min.js&#34;
+
+## Optional, if you want print improvements (to PDF/printed)
+[[module.mounts]]
+source = &#34;node_modules/bootstrap-print-css/css/bootstrap-print.css&#34;
+target = &#34;assets/css/bootstrap-print.css&#34;
+
+[params]
+
+  title = &#39;Your website title&#39;
+  description = &#39;Your website description&#39;
+  sections = [&#34;showcase&#34;, &#34;about&#34;, &#34;education&#34;, &#34;experience&#34;, &#34;client-and-work&#34;, &#34;testimonial&#34;, &#34;contact&#34;, &#34;newsletter&#34;]
+
+  # If you want to display an image logo in the header, you can add it here
+  # logo = &#39;/img/hugo.svg&#39;
+  homepageExperienceCount = 6
+
+  [params.analytics]
+  ## Analytics parameters.
+  ### Supported so far: Vercel (Page Insights, Analytics)
+  ### And Google (Tag Manager, Analytics)
+
+  # controls vercel page insights - disabled by default
+  # to enable, just set to true
+  vercelPageInsights = false
+  vercelAnalytics = false
+  
+  # google analytics and tag manager. to enable, set &#34;enabled&#34; to true
+  # and add the tracking code (UA-something for analytics, GTM-something for tag manager)
+  [params.analytics.googleAnalytics]
+      code = &#34;UA-XXXXX-Y&#34;
+      enabled = false
+  [params.analytics.googleTagManager]
+      code = &#34;GTM-XXXXX&#34;
+      enabled = false
+
+[build]
+  [build.buildStats]
+    disableClasses = false
+    disableIDs = false
+    disableTags = false
+    enable = true
+
+[params.languages.selector.disable]
+  footer = false
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = &#39;en&#39;
+    languageDirection = &#39;ltr&#39;
+    languageName = &#39;English&#39;
+    title = &#39;&#39;
+    weight = 0
+
+    [languages.en.menus]
+      [[languages.en.menus.header]]
+        name = &#39;About&#39;
+        URL = &#39;#about&#39;
+        weight = 2
+      [[languages.en.menus.header]]
+        name = &#39;Portfolio&#39;
+        URL = &#39;#portfolio&#39;
+        weight = 3
+      #  [[languages.en.menus.header]]
+      #  name = &#34;Experience&#34;
+      #  URL = &#34;#experience&#34;
+      #  weight = 4
+
+      [[languages.en.menus.header]]
+        name = &#34;Blog&#34;
+        URL = &#34;/blog&#34;
+        weight = 5
+
+      [[languages.en.menus.header]]
+        name = &#34;Contact&#34;
+        URL = &#34;#contact&#34;
+        weight = 6
+
+      [[languages.en.menus.footer]]
+        name = &#34;About&#34;
+        URL = &#34;#about&#34;
+        weight = 2
+
+      [[languages.en.menus.footer]]
+        name = &#34;Portfolio&#34;
+        URL = &#34;#portfolio&#34;
+        weight = 3
+
+      [[languages.en.menus.footer]]
+        name = &#34;Contact&#34;
+        URL = &#34;#contact&#34;
+        weight = 4
+
+
+  [languages.es]
+    disabled = false
+    languageCode = &#39;es&#39;
+    languageDirection = &#39;ltr&#39;
+    languageName = &#39;Español&#39;
+    title = &#39;&#39;
+    weight = 0
+      [[languages.es.menus.header]]
+        name = &#39;Sobre mi&#39;
+        URL = &#39;/es/#about&#39;
+        weight = 2
+      [[languages.es.menus.header]]
+        name = &#39;Portfolio&#39;
+        URL = &#39;/es/#portfolio&#39;
+        weight = 3
+
+      #  [[languages.es.menus.header]]
+      #  name = &#34;Experiencia&#34;
+      #  URL = &#34;/es/#experience&#34;
+      #  weight = 4
+
+      [[languages.es.menus.header]]
+        name = &#34;Blog&#34;
+        URL = &#34;/es/blog&#34;
+        weight = 5
+
+      [[languages.es.menus.header]]
+        name = &#34;Contacto&#34;
+        URL = &#34;/es/#contact&#34;
+        weight = 6
+
+      [[languages.es.menus.footer]]
+        name = &#34;Sobre mi&#34;
+        URL = &#34;/es/#about&#34;
+        weight = 2
+
+      [[languages.es.menus.footer]]
+        name = &#34;Portfolio&#34;
+        URL = &#34;/es/#portfolio&#34;
+        weight = 3
+
+      [[languages.es.menus.footer]]
+        name = &#34;Contact&#34;
+        URL = &#34;/es/#contact&#34;
+        weight = 4
+
+  [languages.fr]
+    disabled = false
+    languageCode = &#39;fr&#39;
+    languageDirection = &#39;ltr&#39;
+    languageName = &#39;Français&#39;
+    title = &#39;&#39;
+    weight = 0
+
+    [languages.fr.menus]
+      [[languages.fr.menus.header]]
+        name = &#39;About&#39;
+        URL = &#39;#about&#39;
+        weight = 2
+      [[languages.fr.menus.header]]
+        name = &#39;Portfolio&#39;
+        URL = &#39;#portfolio&#39;
+        weight = 3
+      #  [[languages.fr.menus.header]]
+      #  name = &#34;Experience&#34;
+      #  URL = &#34;#experience&#34;
+      #  weight = 4
+
+      [[languages.fr.menus.header]]
+        name = &#34;Blog&#34;
+        URL = &#34;/blog&#34;
+        weight = 5
+
+      [[languages.fr.menus.header]]
+        name = &#34;Contact&#34;
+        URL = &#34;#contact&#34;
+        weight = 6
+
+      [[languages.fr.menus.footer]]
+        name = &#34;About&#34;
+        URL = &#34;#about&#34;
+        weight = 2
+
+      [[languages.fr.menus.footer]]
+        name = &#34;Portfolio&#34;
+        URL = &#34;#portfolio&#34;
+        weight = 3
+
+      [[languages.fr.menus.footer]]
+        name = &#34;Contact&#34;
+        URL = &#34;#contact&#34;
+        weight = 4
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = &#34;css/custom.css&#34;
+  [[params.plugins.css]]
+  URL = &#34;css/adritian-icons.css&#34;
+  ## Optional, if you want print improvements (to PDF/printed)
+  [[params.plugins.css]]
+  URL = &#34;css/bootstrap-print.css&#34;
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = &#34;js/rad-animations.js&#34;
+  [[params.plugins.js]]
+  URL = &#34;js/sticky-header.js&#34;
+  [[params.plugins.js]]
+  URL = &#34;js/library/fontfaceobserver.js&#34;
+
+  # SCSS Plugins
+  [[params.plugins.scss]]
+  URL = &#34;scss/adritian.scss&#34;
+
+
+# theme/color style 
+[params.colorTheme]
+
+## the following configuration would disable automatic theme selection
+#  [params.colorTheme.auto]
+#    disable = true
+#  [params.colorTheme.forced]
+#    theme = &#34;dark&#34;
+
+## the following parameter will disable theme override in the footer
+#  [params.colorTheme.selector.disable]
+#  footer = true
+
+
+## by default we allow override AND automatic selection
+
+[params.blog]
+layout = &#34;default&#34; # options: default, sidebar
+sidebarWidth = &#34;25&#34; # percentage width of the sidebar
+showCategories = true
+showRecentPosts = true
+recentPostCount = 5
+listStyle = &#34;summary&#34; # options: simple, summary
+</code></pre><ol>
+<li>Get the module: <code>hugo mod get -u</code></li>
+<li>Execute <code>hugo mod npm pack</code> - this will generate a <code>package.json</code> file in the root folder of your site, with the dependencies for the theme.</li>
+<li>Execute <code>npm install</code> - this will install the dependencies for the theme (including bootstrap)</li>
+<li>(Optional, to override the defaults) Create a file <code>data/homepage.yml</code> with the contents of the <a href="https://github.com/zetxek/adritian-free-hugo-theme/blob/main/exampleSite/data/homepage.yml"><code>exampleSite/data/homepage.yml</code></a> file, and customize to your needs (<strong>note: this file is not included in your theme if you use hugo modules, download it manually from the repository</strong>)</li>
+</ol>
+<!-- raw HTML omitted -->
+<h3 id="traditional-installation-as-git-submodule">Traditional Installation (as git submodule)</h3>
+<p>If you prefer not to use Hugo Modules, you can still install the theme as a git submodule.
+The guide is very similar to <a href="https://gohugo.io/getting-started/quick-start/#create-a-site">official &ldquo;Quick Start&rdquo;</a>, just changing the theme URL in the <code>git submodule add</code> command:</p>
+  </div>
+
+  <footer class="">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <a class="btn btn-outline-secondary btn-sm" href="/blog/other-installation-methods/"
+          >Read more&nbsp;&raquo;</a
+        >
+      </div>
+    </div>
+  </footer>
+</article>
+
+              </div>
+            
+              <div class="row row--padded rad-animation-group rad-fade-down rad-waiting rad-animate section--border-bottom">
+                <article class="post summary col-12">
+  <header>
+    <h2 class="post-title"><a href="/blog/sample-3/">Sample content: featured image</a></h2>
+    <div class="post-meta">
+      <div>
+        <section>
+          Published on  
+          <h4 class="date">Mon Jun 24, 2024</h4> · 
+          <h4 class="wordcount">196 Words</h4>
+        </section>
+         
+      </div>
+    </div>
+  </header>
+  <div class="post-summary post-content">
+  <p>Sample blog content. Like a lorem ipsum but saying something more interesting.</p>
+<p><img src="/img/blog/feature-sample-3.png" alt="Example image"></p>
+<p>Welcome to the world of &ldquo;Content Ipsum,&rdquo; the fresh alternative to the classic lorem ipsum. It&rsquo;s the perfect blend for designers and writers who crave a dash of creativity and meaning in their placeholder text. Imagine a text that not only fills the space but also sparks the imagination, a text that weaves tales of innovation, inspiration, and the endless possibilities that creativity brings.</p>
+  </div>
+
+  <footer class="">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <a class="btn btn-outline-secondary btn-sm" href="/blog/sample-3/"
+          >Read more&nbsp;&raquo;</a
+        >
+      </div>
+    </div>
+  </footer>
+</article>
+
+              </div>
+            
+              <div class="row row--padded rad-animation-group rad-fade-down rad-waiting rad-animate section--border-bottom">
+                <article class="post summary col-12">
+  <header>
+    <h2 class="post-title"><a href="/blog/sample/">Sample content: formatting styles</a></h2>
+    <div class="post-meta">
+      <div>
+        <section>
+          Published on  
+          <h4 class="date">Fri Jun 21, 2024</h4> · 
+          <h4 class="wordcount">302 Words</h4>
+        </section>
+         
+        <ul class="tags">
+          
+          <li><a href="/tags/sample/">Sample</a></li>
+          
+          <li><a href="/tags/lorem-ipsum/">Lorem-Ipsum</a></li>
+          
+        </ul>
+        
+      </div>
+    </div>
+  </header>
+  <div class="post-summary post-content">
+  <p>Sample blog content. Like a lorem ipsum but saying something more interesting.</p>
+<p>We will show some content that is supported:</p>
+<h2 id="basic-syntax">Basic Syntax</h2>
+<h3 id="headings">Headings</h3>
+<pre tabindex="0"><code># Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+</code></pre><h2 id="heading-2">Heading 2</h2>
+<h3 id="heading-3">Heading 3</h3>
+<h4 id="heading-4">Heading 4</h4>
+<h5 id="heading-5">Heading 5</h5>
+<h6 id="heading-6">Heading 6</h6>
+<h3 id="emphasis">Emphasis</h3>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>*This text will be italic*
+</span></span><span style="display:flex;"><span>_This will also be italic_
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>**This text will be bold**
+</span></span><span style="display:flex;"><span>__This will also be bold__
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>_You **can** combine them_
+</span></span></code></pre></div><p><em>This text will be italic</em></p>
+  </div>
+
+  <footer class="">
+    <div class="row">
+      <div class="col-12 col-lg-4">
+        <a class="btn btn-outline-secondary btn-sm" href="/blog/sample/"
+          >Read more&nbsp;&raquo;</a
+        >
+      </div>
+    </div>
+  </footer>
+</article>
+
+              </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+    </main>
+
+    <div class="d-print-none">
+        <footer class="footer w-100 d-print-none">
+  <div class="container">
+    <div class="container-fluid">
+      <div class="row w-100 align-items-center">
+        <div class="footer_left col-12 col-lg-4 mb-3 mb-lg-0 text-center text-lg-start">
+          <div class="footer__copy">
+            <span>© Adritian. Free Hugo theme by Adrián Moreno Peña.</span>
+          </div>
+        </div>
+        <div class="footer_links col-12 col-lg-6 mb-3 mb-lg-0 text-center text-lg-start">
+          <ul class="navbar-nav w-100 align-items-center justify-content-center justify-content-lg-start d-flex flex-wrap gap-2">
+            <li class="nav-item">
+              <a class="nav-link px-2" href="/"
+                >🏠 HOME</a
+              >
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link px-2" href="/#about"
+                >ABOUT</a
+              >
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link px-2" href="/#portfolio"
+                >PORTFOLIO</a
+              >
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link px-2" href="/#contact"
+                >CONTACT</a
+              >
+            </li>
+            
+          </ul>
+        </div>
+        <div class="footer_right col-12 col-lg-2 mb-3 mb-lg-0 text-center text-lg-end">
+          <div class="d-flex flex-column flex-lg-row justify-content-center align-items-center gap-2 d-grid col-12 ">
+            
+            
+            
+<div id='footer-language-selector'
+  class='d-grid gap-2 col-6 mx-auto nav-link dropdown dropup '>
+  
+  
+  <button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show"
+    id='btn-select-language-footer' type="button" aria-expanded="true"
+    aria-controls="languages-dropdown-footer" data-bs-toggle="dropdown" data-bs-display="static"
+    aria-label='Language'>
+    <span class="label">Language</span>
+  </button>
+  <ul class='dropdown-menu dropdown-menu-end dropup'
+    id="languages-dropdown-footer" data-bs-popper="static">
+    <li class="dropdown-item current selected">
+      <span>✔️ English</span>
+    </li>
+    
+    
+  
+    
+  
+    
+    
+    <li class="dropdown-item choice">
+      <a class="dropdown-item translation btn-link d-flex align-items-center show" title="Español"
+        href="http://localhost:1313/es/blog/">Español</a>
+    </li>
+    
+  </ul>
+</div>
+            
+            
+            
+<div id='footer-color-selector'
+  class='d-grid gap-2 col-6 mx-auto nav-link dropdown dropup '>
+  <button class="btn btn-link py-2 px-0 px-lg-2 dropdown-toggle d-flex align-items-center show bd-theme-selector"
+    id='bd-theme-footer' type="button" aria-expanded="true" data-bs-toggle="dropdown"
+    data-bs-display="static" aria-label='Toggle theme'>
+    <span class="theme-icon auto d-none" aria-hidden="true"></span>
+    <span class="current-theme">✨ Auto</span>
+    <span class="d-lg-none ms-2 visually-hidden bd-theme-text" id="bd-theme-text-footer">Toggle theme</span>
+  </button>
+  <ul id="theme-dropdown-footer" class="dropdown-menu dropdown-menu-end " aria-labelledby="bd-theme-text-footer" data-bs-popper="static">
+    <li>
+      <button type="button" class="dropdown-item d-flex align-items-center active" data-bs-theme-value="light"
+        aria-pressed="true">
+        ☀️ Light
+      </button>
+    </li>
+    <li>
+      <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="dark"
+        aria-pressed="false">
+        🌑 Dark
+        <span class="theme-icon dark d-none" aria-hidden="true"></span>
+      </button>
+    </li>
+    <li>
+      <button type="button" class="dropdown-item d-flex align-items-center" data-bs-theme-value="auto"
+        aria-pressed="false">
+        ✨ Auto
+        <span class="theme-icon light d-none" aria-hidden="true"></span>
+      </button>
+    </li>
+  </ul>
+</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+    </div>
+    
+    <script>
+  window.addEventListener("load", function() {
+    try{
+      var observer = window.lozad(".lozad", {
+        rootMargin: window.innerHeight / 2 + "px 0px",
+        threshold: 0.01
+      }); 
+      observer.observe();
+    } catch(e) {
+      console.error(e);
+    }
+  });
+</script>
+<script defer src='http://localhost:1313/js/rad-animations.js'></script>
+<script defer src='http://localhost:1313/js/library/smooth-scroll.polyfills.min.js'></script>
+<script defer src='http://localhost:1313/js/sticky-header.js'></script>
+<script defer src='http://localhost:1313/js/smooth-scroll-init.js'></script>
+<script defer src="/assets/js/vendor/bootstrap.bundle.min.0833b2e9c3a26c258476c46266e6877fc75218625162e0460be9a3a098a61c6c.js"></script>
+
+
+
+
+<script>
+  window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+</body>
+</html> 

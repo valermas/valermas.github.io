@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on </title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Job #3</title>
+      <link>http://localhost:1313/experience/job-3/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3/</guid>
+      <description>&lt;h3 id=&#34;3rd-job-cio&#34;&gt;3rd job: CIO&lt;/h3&gt;&#xA;&lt;p&gt;As Chief Information Officer at Internet Affairs Inc., I lead the strategic transformation of our digital infrastructure and cybersecurity initiatives. My team of 150+ IT professionals works tirelessly to protect and optimize our global network spanning 23 countries.&lt;/p&gt;&#xA;&lt;p&gt;During my tenure, I&amp;rsquo;ve spearheaded the implementation of a revolutionary blockchain-based verification system that reduced fraudulent transactions by 87% while improving processing speeds by 300%. This initiative saved the company $12M annually and earned us the prestigious &amp;ldquo;Digital Innovation Award 2024&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trabajo #3</title>
+      <link>http://localhost:1313/experience/job-3.es-copy/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-3.es-copy/</guid>
+      <description>&lt;h3 id=&#34;arreglando-el-mundo-un-byte-a-la-vez&#34;&gt;Arreglando el mundo, un byte a la vez&lt;/h3&gt;&#xA;&lt;p&gt;¡Adquisición hostil - ¿quién es el jefe ahora?!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #2</title>
+      <link>http://localhost:1313/experience/job-2/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-2/</guid>
+      <description>&lt;h3 id=&#34;2nd-job-chief-intern&#34;&gt;2nd job: Chief Intern&lt;/h3&gt;&#xA;&lt;p&gt;As Chief Intern at Internet Affairs Inc., I led several key initiatives that helped streamline our internal processes and boost productivity. Working closely with cross-functional teams, I developed and implemented an automated documentation system that reduced report generation time by 65% and improved accuracy by 40%.&lt;/p&gt;&#xA;&lt;p&gt;During my internship, I spearheaded the company&amp;rsquo;s first-ever &amp;ldquo;Innovation Lab&amp;rdquo; program, where I mentored junior interns and coordinated weekly brainstorming sessions. This initiative resulted in three patent-pending solutions and garnered attention from senior management. The program has since been adopted as a permanent fixture in the company&amp;rsquo;s internship structure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Job #1</title>
+      <link>http://localhost:1313/experience/job-1/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/experience/job-1/</guid>
+      <description>&lt;h3 id=&#34;1st-job-junior-intern&#34;&gt;1st job: Junior Intern&lt;/h3&gt;&#xA;&lt;p&gt;The beginning of a great career. As a Junior Intern at Internet Affairs Inc., I had the opportunity to work on various projects that helped me develop my technical and professional skills. Working alongside experienced developers, I contributed to the company&amp;rsquo;s core web applications and learned industry best practices in software development.&lt;/p&gt;&#xA;&lt;p&gt;During my internship, I took the initiative to create an internal documentation wiki that improved knowledge sharing across teams. This project taught me valuable lessons in technical writing and collaboration. I also participated in code reviews and daily stand-ups, gaining firsthand experience in agile development methodologies.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

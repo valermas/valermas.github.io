@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testimonials on </title>
+    <link>http://localhost:1313/testimonial/</link>
+    <description>Recent content in Testimonials on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Nov 2024 21:53:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/testimonial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graziella Nutella</title>
+      <link>http://localhost:1313/testimonial/graziella-nutella/</link>
+      <pubDate>Mon, 25 Nov 2024 21:53:18 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/graziella-nutella/</guid>
+      <description>&lt;p&gt;The content of this section comes from the &lt;code&gt;content/testimonial&lt;/code&gt; folder contents. This that you see is in &lt;code&gt;content/testimonial/graziella-nutella.md&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;p&gt;You can also use parameters for configuration:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;name: &amp;#34;Nutting Hill&amp;#34; # place/city/country for the experience. Fill-in.&#xA;position: &amp;#34;Nutcracker&amp;#34; # from-to, for example &amp;#34;2022-2024&amp;#34;. Fill-in.&#xA;&#xA;params:&#xA;    image:&#xA;        x: &amp;#34;images/testimonials/testimonial1.png&amp;#34; # example: &amp;#34;images/clients/asgardia.png&amp;#34;&#xA;        _2x: &amp;#34;images/testimonials/testimonial1@2x.png&amp;#34; # example: &amp;#34;images/clients/asgardia@2x.png&amp;#34;&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Dana Oneal</title>
+      <link>http://localhost:1313/testimonial/dana-oneal/</link>
+      <pubDate>Mon, 25 Nov 2024 21:50:45 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/dana-oneal/</guid>
+      <description>&lt;p&gt;I had the pleasure of working with this freelancer on several projects, and their performance has been nothing short of outstanding. They bring a high level of expertise, creativity, and dedication to every task. Their ability to understand project requirements and deliver exceptional results on time is truly impressive. They are a reliable and proactive professional who consistently exceeds expectations. I highly recommend this freelancer to anyone seeking top-notch skills and a collaborative partner.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ferdinand Shermand</title>
+      <link>http://localhost:1313/testimonial/ferdinand-shermand/</link>
+      <pubDate>Mon, 25 Nov 2024 21:30:46 +0100</pubDate>
+      <guid>http://localhost:1313/testimonial/ferdinand-shermand/</guid>
+      <description>&lt;p&gt;Working with this colleague has been an absolute pleasure. Their dedication, professionalism, and positive attitude make them an invaluable asset to our team. They consistently go above and beyond to ensure that projects are completed on time and to the highest standard. Their ability to collaborate effectively and support their colleagues is truly commendable. I am continually impressed by their innovative thinking and problem-solving skills. This colleague is not just a team member but a true inspiration and a driving force behind our team’s success.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
