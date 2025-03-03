@@ -485,13 +485,6 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/Valeria Mascolo", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -499,11 +492,11 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=6QhZTPMAAAAJ", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-rss',
+        title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("/feed.xml", "_blank");
         },
       },{
       id: 'light-theme',
