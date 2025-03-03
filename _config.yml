@@ -68,14 +68,6 @@ serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
-# -----------------------------------------------------------------------------
-# Social integration
-# -----------------------------------------------------------------------------
-github_username : valermas
-linkedin_username: Valeria Mascolo
-scholar_userid: 
-orcid_id: 0009-0007-6384-9027
-
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -280,7 +272,7 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
+  bibliography: publications.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
