@@ -9,7 +9,7 @@ profile:
   image: valerie-villefranche-cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Here enjoying a heatwave in Villefrance-sur-mer, 2022</p>
+    <p> :round_pushpin: <a href="https://www.google.com/maps/place/06230+Villafranca+Marittima,+Francia/@43.7019543,7.3106383,16z/data=!4m6!3m5!1s0x12cddb29b0e34e13:0x148664aeebc728f4!8m2!3d43.703976!4d7.311109!16zL20vMDRiNF9i?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">Villefrance-sur-Mer</a> :fr:, 2022</p>
 
 
 news: true
@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts -->
 ---
 
-Deeply passionate about climate physics, statistical and dynamical properties of rare and extreme climate events, disordered and complex systems. 
+**Deeply passionate** about climate physics, **statistical and dynamical properties of rare and extreme climate events**, disordered and complex systems. 
 
-Profoundly intrigued and concerned about the societal, environmental and health impacts of climate change. 
+Profoundly intrigued and concerned about the **societal, environmental and health impacts** of climate change. 
 
 Coordinator of the <a href="https://edipi-itn.eu/projectearth/">EArtH</a> project: bridging art and climate by reimagining art masterpieces under the effects of climate change.
 
