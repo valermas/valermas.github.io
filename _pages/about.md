@@ -26,7 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts -->
 ---
-Fellow of the Maria Skłodowska-Curie ITN H2020 project <a href="https://edipi-itn.eu">EDIPI</a>, which funded my **PhD in Climate physics** at at [École Normale Supérieure de Lyon](https://www.ens-lyon.fr)
+Fellow of the Maria Skłodowska-Curie ITN H2020 project <a href="https://edipi-itn.eu">EDIPI</a>, which funded my **PhD in Climate physics** at [École Normale Supérieure de Lyon](https://www.ens-lyon.fr)
 
 **Deeply passionate** about climate physics, **statistical and dynamical properties of rare and extreme climate events**, disordered and complex systems. 
 
