@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Climate scientist | Physician | Art and baking lover*  
+subtitle: Climate scientist | Physician | Art and baking lover 
 
 profile:
   align: right
