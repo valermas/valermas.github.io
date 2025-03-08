@@ -8,9 +8,9 @@ categories: sample-posts
 thumbnail: assets/img/9.jpg
 images:
   lightbox2: true
-  photoswipe: true
-  spotlight: true
-  venobox: true
+  photoswipe: false
+  spotlight: false
+  venobox: false
 ---
 
 The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
