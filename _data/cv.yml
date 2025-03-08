@@ -16,7 +16,7 @@
       year: 2021 - 2024
       description:
         - <b>Maria Skłodowska-Curie ITN fellow </b> within the <a href='https://www.edipi-itn.eu/'>EDIPI</a>, supervised by <a href="https://scholar.google.com/citations?user=GF9b15gAAAAJ&hl=it&oi=ao">Freddy Bouchet</a>
-        - Thesis ''Studying extreme heatwaves using novel theorethical approaches''
+        - Thesis <i>Studying extreme heatwaves using novel theorethical approaches</i>
           # contents:
           #   - Sub-description 1.
           #   - Sub-description 2.
@@ -25,13 +25,13 @@
       year: 2019 - 2020
       description:
         - Passed with distiction (highest grade)
-        - Dissertation ''Analysis of Bayesian classification - Naive Bayes approach for the analysis of medical data''
+        - Dissertation <i>Analysis of Bayesian classification - Naive Bayes approach for the analysis of medical data</i>
     - title: B.Sc. in Physics Engineering
       institution: <a href='https://www.polito.it/'>Politenico di Torino</a>, Italy
       year: 2016 - 2019
       description :
         - 110 cum laude (highest grade)
-        - Dissertation ''Deterministic and stochastic analysis of epidemics, SIR and SIS models''
+        - Dissertation <i>Deterministic and stochastic analysis of epidemics, SIR and SIS models</i>
 - title: Experience
   type: time_table
   contents:
@@ -72,20 +72,20 @@
     contents:
       - year: 2025
         items: 
-          - '''ETH Zurich''', Invited speaker. Presentation of the work ''Gaussian framework and optimal projection of weather fields for prediction of extreme events''. Invited by Prof. Dr. Daniela
+          - <b>ETH Zurich</b>, Invited speaker. Presentation of the work <i>Gaussian framework and optimal projection of weather fields for prediction of extreme events</i>. Invited by Prof. Dr. Daniela
 Domeisen
       - year: 2024
         items: 
-          - '''European Geosciences Union General Assembly, EGU24''', Presentation of the work ''A Gaussian Framework for Optimal Prediction of Extreme Heatwaves''
+          - <b>European Geosciences Union General Assembly, EGU24</b>, Presentation of the work <i>A Gaussian Framework for Optimal Prediction of Extreme Heatwaves</i>
       - year: 2023
         items:
-          - '''European Geosciences Union General Assembly, EGU23''', Presentation of the work ''Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves''
-          - '''Beg Rohu School of Out of equilibrium statistical physics''', Presentation of the work ''Heatwaves prediction using Gaussian assumption''
-          - '''GdR Defì théoriques pour les sciences du climat''', Poster presentation of the work ''Heatwaves prediction using Gaussian assumption''
+          - <b>European Geosciences Union General Assembly, EGU23</b>, Presentation of the work <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
+          - <b>Beg Rohu School of Out of equilibrium statistical physics</b>, Presentation of the work <i>Heatwaves prediction using Gaussian assumption</i>
+          - <b>GdR Defì théoriques pour les sciences du climat</b>, Poster presentation of the work <i>Heatwaves prediction using Gaussian assumption</i>
       - year: 2022
         items:
-          - '''Tel-Aviv University, Department of Geoscience''', Presentation of the work ''Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves''
-          - '''GdR Defì théoriques pour les sciences du climat''', Poster presentation of the work  ''Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves''
+          - <b>Tel-Aviv University, Department of Geoscience</b>, Presentation of the work <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
+          - <b>GdR Defì théoriques pour les sciences du climat</b>, Poster presentation of the work  <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
 
     
 - title: Honors and Awards
