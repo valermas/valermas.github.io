@@ -7,6 +7,8 @@
     #   value: 14th June 1997
     - name: Languages
       value: Italian, English, French, Neapolitan
+    - name : Programming skills
+      value: Python, MATLAB, C, Bash, Latex, Microsoft Office
 
 - title: Education
   type: time_table
@@ -68,25 +70,52 @@
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Talks and posters
-    type: time_table
-    contents:
-      - year: 2025
-        items: 
-          - <b>ETH Zurich</b>, Invited speaker. Presentation of the work <i>Gaussian framework and optimal projection of weather fields for prediction of extreme events</i>. Invited by Prof. Dr. Daniela
-Domeisen
-      - year: 2024
-        items: 
-          - <b>European Geosciences Union General Assembly, EGU24</b>, Presentation of the work <i>A Gaussian Framework for Optimal Prediction of Extreme Heatwaves</i>
-      - year: 2023
-        items:
-          - <b>European Geosciences Union General Assembly, EGU23</b>, Presentation of the work <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
-          - <b>Beg Rohu School of Out of equilibrium statistical physics</b>, Presentation of the work <i>Heatwaves prediction using Gaussian assumption</i>
-          - <b>GdR Defì théoriques pour les sciences du climat</b>, Poster presentation of the work <i>Heatwaves prediction using Gaussian assumption</i>
-      - year: 2022
-        items:
-          - <b>Tel-Aviv University, Department of Geoscience</b>, Presentation of the work <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
-          - <b>GdR Defì théoriques pour les sciences du climat</b>, Poster presentation of the work  <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
+  type: time_table
+  contents:
+    - year: 2025
+      items: 
+        - <b>ETH Zurich</b>, Invited speaker. Presentation of the work <i>Gaussian framework and optimal projection of weather fields for prediction of extreme events</i>. Invited by Prof. Dr. Daniela Domeisen
+    - year: 2024
+      items: 
+        - <b>European Geosciences Union General Assembly, EGU24</b>, Presentation of the work <i>A Gaussian Framework for Optimal Prediction of Extreme Heatwaves</i>
+    - year: 2023
+      items:
+        - <b>European Geosciences Union General Assembly, EGU23</b>, Presentation of the work <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
+        - <b>Beg Rohu School of Out of equilibrium statistical physics</b>, Presentation of the work <i>Heatwaves prediction using Gaussian assumption</i>
+        - <b>GdR Defì théoriques pour les sciences du climat</b>, Poster presentation of the work <i>Heatwaves prediction using Gaussian assumption</i>
+    - year: 2022
+      items:
+        - <b>Tel-Aviv University, Department of Geoscience</b>, Presentation of the work <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
+        - <b>GdR Defì théoriques pour les sciences du climat</b>, Poster presentation of the work  <i>Comparing the influence of Atlantic Multidecadal Variability and spring soil moisture on European summer heatwaves</i>
 
+- title: Schools, courses and trainings
+  type: time_table
+  contents :
+    - year: 2023-2024
+      items:
+        - EDIPI ITN 5th training week at KIT, Karlsruhe, Germany
+        - EDIPI ITN 6th training week - <i>Network-wide ESR Research and Soft Skills Training</i> at Cyprus Institute, Nicosia, Cypru
+        - <b>Participation to the European Geosciences Union General Assembly (EGU24)</b>, Wien, Austria
+        - Workshop - <i>Prévisibilité dans les sciences de l’atmosphère et Points de bascule</i> within the Group De Recherche ”Défis théoriques pour les sciences du climat”, Institut Henri Poincaré, Paris, France
+        - Workshop - <i>Interfaces dans le système climatique</i>, within the Group De Recherche ”Défis théoriques pour les sciences du climat”, Grenoble, France
+    - year: 2022-2023
+      items:
+        - <b>Workshop</b> -<i> Mathematics and theoretical physics for climate dynamics</i>, Ecole Normale Superieure de Lyon, Lyon, France
+        - <b>Summer school</b> - <i>Climate sensibility</i>, Ecole Normale Superieure de Lyon, Lyon, France
+        - EDIPI ITN 4th training week - <i>Idealized modelling in climate sciences</i>, Institut Royal Météorologique, Brussels, Belgium
+        - <b>Summer school</b> - <i>Out of equilibrium statistical physics</i>, Beg Rohu, France
+        - Course - <i>Granular, jammed and disordered media</i>, Ecole Normale Superieure de Lyon, Lyon, France
+        - <b>Participation to the European Geosciences Union General Assembly (EGU23)</b>, Wien, Austria
+    - year: 20021-2022
+      items:
+        - Course - <i>Large deviations in physics</i>, Ecole Normale Superieure de Lyon, Lyon, France
+        - Course - <i>Climate change, climate change impacts, and energetic transition</i>, Ecole Normale Superieure de Lyon, Lyon, France
+        - <b>Summer school</b> - Artificial intelligence for detection and attribution of climate extremes, <b>XAIDA</b> project, ICTP, Trieste, Italy
+        - School - <i>Machine Learning and the Physics of Climate and Workshop on Extreme Events in Weather and Climate</i>, Fletcher Hotel, Berg en Daal, The Netherlands
+        - EDIPI ITN 3rd training week - <i>Attribution studies, tipping point of climate and advanced statistical methods for extremes</i>, Ecole Normale Superieure, Paris, France
+        - EDIPI ITN 1st & 2nd training weeks - <i>Basics of statistics, probability, extreme events modelling and extreme value theory<i>, Uppsala University, Uppsala, Sweden
+        - Journées du lancement du Group De Recherche "Défis théoriques pour les sciences du climat", Auditorium TOTEM, Paris, France
+        - Journées de la physique statistique, Ecole Normale Superieure, Paris, France
     
 - title: Honors and Awards
   type: time_table
@@ -100,19 +129,19 @@ Domeisen
     #   items:
     #     - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Climate extremes
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Climate change and impacts
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Climate extremes
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Climate change and impacts
+#      items:
+#        - Description 1.
+#        - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

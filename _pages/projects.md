@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: cuisine
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: my journey in the world of flour, yeast, eggs, milk, and tears.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 5
+display_categories: [bread, sweets] #[work, fun]
 horizontal: false
 ---
 

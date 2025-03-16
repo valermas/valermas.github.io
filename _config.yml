@@ -88,14 +88,14 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # blog_name will be displayed in your blog page
-blog_description: 
+blog_name:  how I perceive our warming world # blog_name will be displayed in your blog page
+blog_description: a collection of things that astonished me while living on this planet
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
   
 related_blog_posts:
   enabled: true
@@ -153,6 +153,8 @@ collections:
     output: true
   projects:
     output: true
+  art_photo:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -176,8 +178,9 @@ include: ["_pages", "_scripts"]
 exclude:
   - _pages/teaching.md
   - _pages/profiles.md # people page
-  - _pages/projects.md
+  - _pages/repositories.md
   - _pages/dropdown.md
+  - _pages/art_photo.md
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -261,8 +264,8 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["art", "photography", "travel"] #,"links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
+display_categories: ["climate"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
