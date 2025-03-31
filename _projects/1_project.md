@@ -67,7 +67,7 @@ Yes, it was a matter of life or death. And still is.
     </div>
 </div>
 <div class="caption">
-    Yes, I am kind of cruel to show you this without giving you the opportunity to taste it: I can promise it was great.
+    Yes, I am kind of cruel to show you this without giving you the opportunity to taste it: I can guarantee it was great.
 </div>
 
 <!--The code is simple.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: what else than a fluffly brioche to start the day?
+title: a fluffly brioche to start the day
 description: 
 img: assets/img/brioche3.jpg
 importance: 1

@@ -9,7 +9,7 @@ profile:
   image: valerie-villefranche-cropped.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> 📍 This is me in <a href="https://www.google.com/maps/place/06230+Villafranca+Marittima,+Francia/@43.7019543,7.3106383,16z/data=!4m6!3m5!1s0x12cddb29b0e34e13:0x148664aeebc728f4!8m2!3d43.703976!4d7.311109!16zL20vMDRiNF9i?entry=ttu&g_ep=EgoyMDI1MDIyNi4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">Villefrance-sur-Mer</a> 🇫🇷, 2022</p>
+    <p> 📍 This is me in <a href="https://www.google.com/maps/place/06230+Villefranche-sur-Mer,+France/@43.708097,7.3037504,14z/data=!3m1!4b1!4m6!3m5!1s0x12cddb29b0e34e13:0x148664aeebc728f4!8m2!3d43.703976!4d7.311109!16zL20vMDRiNF9i?hl=fr&entry=ttu&g_ep=EgoyMDI1MDMyNC4wIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D">Villefranche-sur-Mer</a> 🇫🇷, 2022</p>
 
 
 news: false
