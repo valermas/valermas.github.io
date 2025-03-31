@@ -77,8 +77,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-what-else-than-a-fluffly-brioche-to-start-the-day",
-          title: 'what else than a fluffly brioche to start the day?',
+            },},{id: "projects-a-fluffly-brioche-to-start-the-day",
+          title: 'a fluffly brioche to start the day',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -87,9 +87,9 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-chocolate-and-hazelnut-chip-cookies",
+          title: 'chocolate and hazelnut chip cookies',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
