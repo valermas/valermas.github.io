@@ -1,0 +1,5 @@
+E' da tanto tempo che vorrei scrivere. C'è un'idea che mi rimbalza di continuo nella testa.
+
+Voglio salvare i miei ricordi dalla patina che un giorno li renderà inesistenti. Scrivere è l'unico modo che conosco per sopravvivere alla dimenticanza. 
+Un giorno forse li pubblicherò, o li donerò ai miei figli, se un giorno decidessi di volerne. O forse, li rileggerò alla fine della mia vita e sono sicura che sarò contenta per quell'oggi in cui ho iniziato a scrivere. Dimenticare ciò che sono mi spaventa. L'idea di perdere definitivamente dei pezzi di me mi intristisce perché una volta perduti, per definizione, non sono più tuoi. 
+Sono nata in un paesino in provincia di Napoli, in un sabato del 1997. Sono la primogenita, ed anche la prima nipote che vivrà qui. Ho già dei cugini, ma nessuno è rimasto a vivere qui. Qui non ci è nato proprio nessuno. La mia nascita rende tutti felicissimi. 

@@ -60,7 +60,7 @@ Yes, it was a matter of life or death. And still is.
 <!-- La prima tipologia di lievitato che ho imparato a gestire è stata la focaccia. E' un tipo di pane italiano, generalmente usato per aperitivi o come pranzo al volo, spesse volte tagliato a metà e farcito. Ce ne sono di diversi tipi, consistenze e altrettanti dibattiti su quale sia la migliore. La mia scelta è semplice: tutte e nessuna. Ci sono stati momenti in cui ho amato le foacce alte e soffici, come quella barese, altri in cui sentivo il bisogno di una focaccia più sottile e croccante, come quella ligure o toscana. Con la focaccia è iniziato il mio percorso alla scoperta delle farine, della loro forza. Mai in vita mia avrei pensato di passare in rassegna interi scaffali di farine e leggerne la percentuale di proteine.  -->
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/focaccia3.jpg" title="e" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/focaccia3.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/focaccia1.jpg" title="" class="img-fluid rounded z-depth-1" %}
