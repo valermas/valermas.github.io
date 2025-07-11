@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "post-sardinia-the-locus-amoenus",
+        },{id: "post-biodiversity-exists-and-resists-in-giverny",
+      
+        title: "biodiversity exists and resists in Giverny",
+      
+      description: "a place for reconnecting with yourself",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/giverny/";
+        
+      },
+    },{id: "post-sardinia-the-locus-amoenus",
       
         title: "sardinia, the locus amoenus",
       
