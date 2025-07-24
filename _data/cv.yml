@@ -72,8 +72,11 @@
 - title: Talks and posters
   type: time_table
   contents:
-    - year: 2025
+     - year: 2025
       items: 
+        - <b>EMS2025<\b>, Presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
+        - <b>University of Chicago<\b>, Invited speaker. Presentation of the work <i>Gaussian framework and optimal projection of weather fields for prediction of extreme events</i>.
+        - <b>Stormtracks2025<\b>, Poster presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
         - <b>ETH Zurich</b>, Invited speaker. Presentation of the work <i>Gaussian framework and optimal projection of weather fields for prediction of extreme events</i>. Invited by Prof. Dr. Daniela Domeisen
     - year: 2024
       items: 
@@ -91,6 +94,10 @@
 - title: Schools, courses and trainings
   type: time_table
   contents :
+    - year: 2025-
+      items:
+        - South and Southeast Asia Climate and Health Responders Course, Columbia University.
+        - European Climate Resilient Health Systems Course, Columbia University.
     - year: 2023-2024
       items:
         - EDIPI ITN 5th training week at KIT, Karlsruhe, Germany

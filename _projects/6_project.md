@@ -1,10 +1,11 @@
 ---
 layout: page
 title: the babka hug
-
 img: assets/img/babka4.jpg
 importance: 4
 category: sweets
+related_publications: true
+giscus_comments: true
 ---
 
 I’ve always loved walking through the streets of La Croix-Rousse in Lyon. It’s a hilly neighborhood in the north of the city, historically a haven for unconventional artists and craftsmen. I've always had a soft spot for them. Whenever I feel the urge to feed my curiosity and creativity, I take a spontaneous stroll through the area, letting myself get lost among unfamiliar alleys and hidden corners. The French have a perfect word for it: flâner—to wander aimlessly but delightfully.

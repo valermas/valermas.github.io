@@ -5,7 +5,8 @@ description:
 img: assets/img/brioche3.jpg
 importance: 1
 category: sweets
-giscus_comments: false
+related_publications: true
+giscus_comments: true
 ---
 
 

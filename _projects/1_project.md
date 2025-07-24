@@ -5,7 +5,8 @@ description:
 img: assets/img/focaccia7.jpg
 importance: 1
 category: bread
-related_publications: false
+related_publications: true
+giscus_comments: true
 ---
 
 Baking is a passion that comes from afar. 

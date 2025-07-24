@@ -4,6 +4,8 @@ title: chocolate and hazelnut chip cookies
 img: assets/img/cookie1.jpg
 importance: 3
 category: sweets
+related_publications: true
+giscus_comments: true
 ---
 
 You know that moment when you're sitting at your desk, spring is peeking through the window, and suddenly, a craving sneaks up on you—that craving? Or when you're curled up on the couch, reading your favorite book, and there it is again, resurfacing. You and I both know there's only one thing that can call to us so strongly: absolutely out-of-this-world cookies.

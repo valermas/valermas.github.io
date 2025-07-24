@@ -5,6 +5,8 @@ description:
 img: assets/img/koakpau2.jpg
 importance: 3
 category: bread
+related_publications: true
+giscus_comments: true
 ---
 
 On dark, rainy weekends during my winters in Lyon, the sound of my steamer filled the house with warmth. There's something magical about steaming food—it’s like happiness trapped in a cloud. Or, well, my dinner. Same thing, really.
