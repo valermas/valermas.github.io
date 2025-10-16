@@ -10,6 +10,31 @@
     - name : Programming skills
       value: Python, MATLAB, C, Bash, Latex, Microsoft Office
 
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Scientist on Tipping points
+      institution: <a href="https://ncas.ac.uk/">National Centre for Atmospheric Science</a>, <a href=)"https://www.reading.ac.uk/meteorology/">Department of Meteorology</a>, University of Reading
+      year: 2025 - current
+      description: 
+      - Simulating, forecasting and associated impacts of tipping points, focusing on the Subpolar Gyre and Greenland Ice Sheet, as part of PROMOTE, advised by <a href='https://research.reading.ac.uk/meteorology/people/reinhard-schiemann/'>Reinhard Schiemann</a> and <a href='https://research.reading.ac.uk/meteorology/people/andrea-dittus/'>Andrea Dittus</a>.
+    
+    - title: Visiting PhD student of <a href='https://scholar.google.it/citations?user=4aSfJUgAAAAJ&hl=it'>Francesco Ragone</a>
+      institution: <a href='https://www.meteo.be/en/brussels'>Royal Meteorological Institute of Belgium</a>, Belgium
+      year: Oct.- Dec. 2023
+
+    - title: Visiting PhD student of <a href='https://harnik.sites.tau.ac.il/'>Nili Harnik</a>
+      institution: <a href='https://en-exact-sciences.tau.ac.il/earth'>Tel Aviv University</a>, Depertment of Geophysics, Israel
+      year: Oct. - Dec. 2022
+
+    - title: Traineeship at the European Commission’s Joint Research Centre
+      institution: <a href= 'https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-ispra-italy_en'>Joint Research Centre of Ispra</a>, Italy
+      year: 2020 - 2021
+      description:
+        - Trainee in the Text Mining & Analysis Competence Centre team, working in the field of sentiment analysis and machine learning.
+
+
+      
 - title: Education
   type: time_table
   contents:
@@ -34,32 +59,6 @@
       description :
         - 110 cum laude (highest grade)
         - Dissertation <i>Deterministic and stochastic analysis of epidemics, SIR and SIS models</i>
-- title: Experience
-  type: time_table
-  contents:
-    - title: Visiting PhD student of <a href='https://scholar.google.it/citations?user=4aSfJUgAAAAJ&hl=it'>Francesco Ragone</a>
-      institution: <a href='https://www.meteo.be/en/brussels'>Royal Meteorological Institute of Belgium</a>, Belgium
-      year: Oct.- Dec. 2023
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: Visiting PhD student of <a href='https://harnik.sites.tau.ac.il/'>Nili Harnik</a>
-      institution: <a href='https://en-exact-sciences.tau.ac.il/earth'>Tel Aviv University</a>, Depertment of Geophysics, Israel
-      year: Oct. - Dec. 2022
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-
-    - title: Traineeship at the European Commission’s Joint Research Centre
-      institution: <a href= 'https://joint-research-centre.ec.europa.eu/jrc-sites-across-europe/jrc-ispra-italy_en'>Joint Research Centre of Ispra</a>, Italy
-      year: 2020 - 2021
-      description:
-        - Trainee in the Text Mining & Analysis Competence Centre team, working in the field of sentiment analysis and machine learning.
-
 
 
 # - title: Open Source Projects
@@ -74,6 +73,7 @@
   contents:
     - year: 2025
       items: 
+        - <b>University of Reading</b>, PROMOTE kickoff meeting. Presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
         - <b>EMS2025</b>, Presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
         - <b>University of Chicago</b>, Invited speaker. Presentation of the work <i>Gaussian framework and optimal projection of weather fields for prediction of extreme events</i>.
         - <b>Stormtracks2025</b>, Poster presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
@@ -127,6 +127,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Finalist of the <a href="http://css-fr.org/prix-de-these-2025/">French Complex Systems Society PhD Award 2025</a> for my thesis.
     - year: 2017 - 2019
       items:
         - Winner of the Scholarship and Housing Service for merit requirements provided by Edisu Piemonte, awarded through public competition.

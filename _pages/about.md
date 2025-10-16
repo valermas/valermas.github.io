@@ -26,15 +26,21 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts -->
 ---
-Fellow of the Maria Skłodowska-Curie ITN H2020 project <a href="https://edipi-itn.eu">EDIPI</a>.
+**Research scientist** at the [National Centre for Atmospheric Science](https://ncas.ac.uk/), Department of Meteorology, University of Reading, working on the *simulation, forecasting and impacts of tipping points*, focusing on the *Subpolar Gyre and the Greenland Ice Sheet*.
 
-**PhD in Climate physics** at [École Normale Supérieure de Lyon](https://www.ens-lyon.fr).
+**PhD in Physics** at [École Normale Supérieure de Lyon](https://www.ens-lyon.fr), as **Maria Skłodowska-Curie ITN H2020 fellow**, within project <a href="https://edipi-itn.eu">EDIPI</a>.
 
-**Deeply passionate** about climate physics, **statistical and dynamical properties of rare and extreme climate events**, disordered and complex systems. 
+**Finalist** of the [French Complex Systems Society PhD Award 2025](http://css-fr.org/prix-de-these-2025/).
 
-Profoundly intrigued and concerned about the **societal, environmental and health impacts** of climate change. 
+**Chief blog editor**, events and meeting organiser of the EGU's [Climate: Past, Present & Future](https://www.egu.eu/cl/) and [Nonlinear processes in Geosciences](https://www.egu.eu/np/) ECS divisions.
+
+**Member** of [Climate Ambassadors](https://climateambassadors.org.uk/), to support nurseries, schools and colleges in the UK to build their *climate action plans*.
 
 Coordinator of the <a href="https://edipi-itn.eu/projectearth/">EArtH</a> project: bridging art and climate by reimagining art masterpieces under the effects of climate change.
+
+**Deeply passionate** about climate physics, **statistical and dynamical properties of rare and extreme climate events, and tipping points**, disordered and complex systems. 
+
+Profoundly intrigued and concerned about the **societal, environmental and health impacts** of climate change. 
 
 Enthusiastic about art history, baking, swimming and running.
 
