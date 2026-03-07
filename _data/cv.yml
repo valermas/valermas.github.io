@@ -33,7 +33,33 @@
       description:
         - Trainee in the Text Mining & Analysis Competence Centre team, working in the field of sentiment analysis and machine learning.
 
+- title: Professional service and leadership
+  type: time_table
+  contents:
+    - title: Steering Committee Member of <a href='https://www.risk-kan.org'>Risk-KAN</a>
+      year: 2026 - current
+      description: 
+      - Knowledge Action Network on Emergent Risks and Extreme Events - Reducing Disaster Risks under Environmental Change
 
+    - title: Working groups Member of the COST Action <a href='https://www.cost.eu/actions/CA24144/'>ANTICIPATE</a>
+      year: 2026 - current
+      description:
+      - European research and innovation network funded under the European Cooperation in Science and Technology framework, on extended-range multi-hazard predictions and early warnings.
+
+    - title: Organizing Committee Member, Royal Meteorological Society
+      institution: University of Exeter
+      year: 2026
+      description:
+      - Annual <a href="https://www.rmets.org/conference/weather-and-climate-conference-2026">Weather and Climate Conference</a>
+    
+    - title: Co-organiser, workshop <a href="https://research.reading.ac.uk/cmpe/exrec2026">ExREC</a>
+      institution: University of Reading
+      year: 2026
+      description:
+      - EXtremes and Rare Events in Climate and related applications
+  
+    - title: Reviewer for Weather and Climate Dynamics and International Journal of Climatology journals
+      year: 2025
       
 - title: Education
   type: time_table

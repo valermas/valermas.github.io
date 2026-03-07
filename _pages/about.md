@@ -32,16 +32,18 @@ latest_posts:
 
 **Finalist** of the [French Complex Systems Society PhD Award 2025](http://css-fr.org/prix-de-these-2025/).
 
+**Steering committee member** of [RIsh-KAN](https://www.risk-kan.org) and **member of the COST Action** [ANTICIPATE: extended-range multi-hazard predictions and early warnings](https://www.cost.eu/actions/CA24144/).
+
+**Organiser** of the *Royal Metereological Society* [Weather and Climate Conference 2026](https://www.rmets.org/conference/weather-and-climate-conference-2026). 
+
 **Chief blog editor**, events and meeting organiser of the EGU's [Climate: Past, Present & Future](https://www.egu.eu/cl/) and [Nonlinear processes in Geosciences](https://www.egu.eu/np/) ECS divisions.
 
 **Member** of [Climate Ambassadors](https://climateambassadors.org.uk/), to support nurseries, schools and colleges in the UK to build their *climate action plans*.
 
 Coordinator of the <a href="https://edipi-itn.eu/projectearth/">EArtH</a> project: bridging art and climate by reimagining art masterpieces under the effects of climate change.
 
-**Deeply passionate** about climate physics, **statistical and dynamical properties of rare and extreme climate events, and tipping points**, disordered and complex systems. 
+Passionate about **translating climate science into actionable knowledge** that addresses the societal, economic, environmental, and health impacts of climate change. 
 
-Profoundly intrigued and concerned about the **societal, environmental and health impacts** of climate change. 
-
-Enthusiastic about art history, baking, swimming and running.
+Outside research: art history enthusiast, baker, swimmer, and runner.
 
 *But I also have faults.*
