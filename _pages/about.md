@@ -30,13 +30,13 @@ latest_posts:
 
 **PhD in Physics** at [École Normale Supérieure de Lyon](https://www.ens-lyon.fr), as **Maria Skłodowska-Curie ITN H2020 fellow**, within project <a href="https://edipi-itn.eu">EDIPI</a>.
 
-**Finalist** of the [French Complex Systems Society PhD Award 2025](http://css-fr.org/prix-de-these-2025/).
+**Early Career Scientist Representative** of the EGU's [Climate: Past, Present & Future](https://www.egu.eu/cl/) division.
 
-**Steering committee member** of [RIsh-KAN](https://www.risk-kan.org) and **member of the COST Action** [ANTICIPATE: extended-range multi-hazard predictions and early warnings](https://www.cost.eu/actions/CA24144/).
+**Steering committee member** of [Risk-KAN](https://www.risk-kan.org) and **member of the COST Action** [ANTICIPATE: extended-range multi-hazard predictions and early warnings](https://www.cost.eu/actions/CA24144/).
 
 **Organiser** of the *Royal Metereological Society* [Weather and Climate Conference 2026](https://www.rmets.org/conference/weather-and-climate-conference-2026). 
 
-**Chief blog editor**, events and meeting organiser of the EGU's [Climate: Past, Present & Future](https://www.egu.eu/cl/) and [Nonlinear processes in Geosciences](https://www.egu.eu/np/) ECS divisions.
+**Finalist** of the [French Complex Systems Society PhD Award 2025](http://css-fr.org/prix-de-these-2025/).
 
 **Member** of [Climate Ambassadors](https://climateambassadors.org.uk/), to support nurseries, schools and colleges in the UK to build their *climate action plans*.
 
