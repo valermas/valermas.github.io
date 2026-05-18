@@ -33,7 +33,7 @@
       description:
         - Trainee in the Text Mining & Analysis Competence Centre team, working in the field of sentiment analysis and machine learning.
 
-- title: Professional service and leadership
+- title: Leadership and professional service
   type: time_table
   contents:
     - title: Steering Committee Member of <a href='https://www.risk-kan.org'>Risk-KAN</a>
@@ -100,6 +100,11 @@
 - title: Talks and posters
   type: time_table
   contents:
+    - year: 2026
+      items:
+        - <b>European Geosciences Union General Assembly, EGU26</b>, Presentation of the work <i>Understanding Subpolar Gyre weakening and its impacts using Large Ensembles.</i>
+        - <b>VU Amsterdam</b>, Workshop on “Dynamics of Rossby Waves, Compound Extremes and Their Impacts”. Presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
+
     - year: 2025
       items: 
         - <b>University of Reading</b>, PROMOTE kickoff meeting. Presentation of the work <i>Rare events algorithm study of extreme double jet summers and their connection to heatwaves over Eurasia</i>.
